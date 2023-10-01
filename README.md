@@ -4,7 +4,7 @@
 </p>
 <h1 align="center">Hi 👋, I'm Abdelrahman</h1>
 <h3 align="center">A machine learning enthusiast</h3>
-
+<h3 align="center">A senior Computer and Communication student</h3>
 </br>
 </br>
 </br>
